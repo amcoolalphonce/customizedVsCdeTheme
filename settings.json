@@ -27,4 +27,15 @@
     "activityBar.activeBackground": "#000000",
     "activityBar.background": "#000000",
     "activityBar.foreground": "#ffffff",
+    "titleBar.inactiveBackground": "#000000",
+    "tab.activeBorderTop": "#ffffff",
+    "panelSectionHeader.border": "#ffffff",
+    "panelTitle.activeBorder": "#01abee",
+    "activityBar.inactiveForeground": "#ffffff",
+    "titleBar.activeBackground": "#000000",
+    "panelTitle.activeForeground": "#0de3ff",
+    "panelTitle.inactiveForeground": "#ffffff",
+    "panel.border": "#008cff"
+  },
+  
 
