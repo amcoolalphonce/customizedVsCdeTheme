@@ -16,3 +16,9 @@
     "editorGutter.background": "#000000",
     "editorGroup.border": "#000000",
     "peekViewEditorGutter.background": "#000000",
+    "sideBar.background": "#000000",
+    "sideBarSectionHeader.foreground": "#0a68dc", //home that is
+    "sideBarSectionHeader.background": "#000000",
+    "sideBar.border": "#05eeea",
+    "sideBar.foreground": "#09b0b5",
+    "sideBySideEditor.horizontalBorder": "#000000",
