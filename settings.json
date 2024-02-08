@@ -1,1 +1,4 @@
-
+{
+  "editor.fontFamily": "Segoe UI",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": false,
