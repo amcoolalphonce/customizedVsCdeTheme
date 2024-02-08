@@ -2,3 +2,17 @@
   "editor.fontFamily": "Segoe UI",
     "editor.fontSize": 16,
     "editor.fontLigatures": false,
+
+"workbench.colorCustomizations": {
+    "editorLineNumber.activeForeground": "#27d4c9",
+    "editor.foldBackground": "#0b0101",
+    "tab.hoverBackground": "#000000",
+    "tab.inactiveBackground": "#010909",
+    "tab.activeBackground": "#030134",
+    "tab.activeForeground": "#0ae6ee",
+    "tab.inactiveForeground": "#ffffff",
+    "editor.background": "#000000",
+    "editor.foreground": "#139099",
+    "editorGutter.background": "#000000",
+    "editorGroup.border": "#000000",
+    "peekViewEditorGutter.background": "#000000",
